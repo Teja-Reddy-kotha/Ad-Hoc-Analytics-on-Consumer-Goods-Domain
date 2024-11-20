@@ -3,6 +3,10 @@
 I am excited to share my project on Ad Hoc SQL Analytics, completed as part of the Resume Project Challenge at Codebasics. This project showcases my proficiency in SQL and data analytics to address real-world business problems through insights and data-driven decision-making.
 
 ---
+## Important Links
+- ---> [Portfolio](https://codebasics.io/portfolio/Kotha-Sai-Teja-Reddy)
+- ---> [LinkedIN Post](https://www.linkedin.com/posts/tejaa-reddy-kotha_codebasics-adabrhoc-analysis-activity-7264874262761545728-BGh3?utm_source=share&utm_medium=member_desktop)
+- ---> [Presentation PPT](https://app.powerbi.com/view?r=eyJrIjoiOGMzM2YwYzYtNzI5YS00N2U2LWI2ZTEtOTZhODJmMGQ5NTQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Problem Statement
 
